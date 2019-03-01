@@ -15,9 +15,9 @@ Estimate of time needed to complete: 10 min
 
 Start time: 9:20
 
-Finish time: _____
+Finish time: 10:20
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1hour
 
 ##Feature 3: Add Migrations folder
 
